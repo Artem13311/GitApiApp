@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ktor</string>
+    <string name="loadingText">Loading</string>
+    <string name="errorText">ERROR!</string>
+</resources>

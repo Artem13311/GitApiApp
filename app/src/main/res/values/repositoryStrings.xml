@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="repoNotFound">Repository not found!</string>
+    <string name="reposInfoText">Repository information</string>
+    <string name="repositoryName">Name</string>
+    <string name="repositoryUrl">Repository url</string>
+    <string name="repositoryForkCount">Fork count</string>
+    <string name="repositoryCreated_at">Created at</string>
+    <string name="repositoryUpdated_at">Updated at</string>
+    <string name="repositoryPushed_at">Pushed at</string>
+    <string name="repositorySize">Repository size</string>
+    <string name="repositoryStargazers_count">Stargazers count</string>
+    <string name="repositoryWatchers_count">Watchers count</string>
+    <string name="repositoryLanguage">Project language</string>
+    <string name="repositoryId">Id</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ownerInfoText">Owner info</string>
+    <string name="ownerName">Name: </string>
+    <string name="userId">User id: </string>
+    <string name="userType">Account type:</string>
+    <string name="userUrl">Url: </string>
+</resources>
